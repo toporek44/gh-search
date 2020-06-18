@@ -1,4 +1,3 @@
-// let requirejs = require("requirejs");
 const dotenv = require("dotenv").config();
 const inputName = document.querySelector(".input");
 const btnSearch = document.querySelector(".btn__search");
